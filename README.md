@@ -1,2 +1,2 @@
 # styleguide-css
-Repositório para as aulas da plataforma Alura
+Repositório para aprender algumas padronizações e praticar o conceito BEM.
